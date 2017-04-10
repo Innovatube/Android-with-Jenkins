@@ -11,7 +11,6 @@ import android.util.Log;
 
 import com.google.firebase.messaging.RemoteMessage;
 import com.innovatube.jenkins.R;
-import com.innovatube.jenkins.ui.login.LoginActivity;
 
 import java.util.Map;
 
